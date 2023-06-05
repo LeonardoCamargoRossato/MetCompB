@@ -5,7 +5,7 @@ Aqui serão "upados" os arquivos das resoluções e gabaritos dos trabalhos da d
 Além disso, também serão "upados" links e vídeo-aulas sobre os assuntos dos trabalhos. 
 
 
-Pra quem não tiver instlado o comando "pip", basta rodar o seguinte código no terminal:
+Pra quem não tiver instalado o comando "pip", basta rodar o seguinte código no terminal:
 
 --> (No ubuntu / popOS / Mint , gnome em geral):
 
