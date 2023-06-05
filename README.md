@@ -5,11 +5,11 @@ Aqui serão "upados" os arquivos das resoluções e gabaritos dos trabalhos da d
 Além disso, também serão "upados" links e vídeo-aulas sobre os assuntos dos trabalhos. 
 
 
---> Pra quem não tiver instaldo o comando "pip", basta rodar o seguinte códgio (no ubuntu / popOS / Mint , gnome em geral):
+--> Pra quem não tiver instaldo o comando "pip", basta rodar o seguinte código (no ubuntu / popOS / Mint , gnome em geral):
  sudo apt-get install python-pip
  
---> Pra quem não tiver instaldo o comando "pip", basta rodar o seguinte códgio (no Manjaro / ArchLinux):
+--> Pra quem não tiver instaldo o comando "pip", basta rodar o seguinte código (no Manjaro / ArchLinux):
  sudo pacman -S python-pip
  
---> Pra quem não tiver instaldo o comando "pip", basta rodar o seguinte códgio (no Windows):
+--> Pra quem não tiver instaldo o comando "pip", basta rodar o seguinte código (no Windows):
 (https://www.youtube.com/watch?v=qxyfsNu7XN0)
