@@ -38,6 +38,10 @@ The repository is organized by assignments, exercises and computational topics. 
 
 **Tier B — Technical / Scientific Project.** Preserved as a substantial scientific-computing body of work rather than presented as a production software product.
 
+## Portfolio
+
+**Personal Technical Portfolio:** https://leonardocamargorossato.github.io/LCR-SolutionsArchitecture-IA-Quantum/#/
+
 ---
 
 **Leonardo Camargo Rossato** · Developer & Solution Architect · AI, Data & Deep Tech
